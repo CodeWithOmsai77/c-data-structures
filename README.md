@@ -1,4 +1,4 @@
-# 💻 C Programming Portfolio — Omsai Dasari
+# 💻 C Programming — Omsai Dasari
 
 > A structured repository showcasing my journey of learning C programming, covering core concepts, problem-solving techniques, and practical implementations.
 
@@ -20,7 +20,7 @@ It includes well-organized programs, practice exercises, and concept-based imple
 - Input/Output Handling  
 - Debugging & Code Optimization  
 
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=11998e&height=80&section=footer&fontSize=16&fontColor=0f2027"/> </p>
 
 
 
