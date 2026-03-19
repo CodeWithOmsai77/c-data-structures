@@ -22,41 +22,5 @@ It includes well-organized programs, practice exercises, and concept-based imple
 
 ---
 
-## 📚 Topics Covered
-
-The repository is organized topic-wise for clarity and progressive learning:
-
-- C Fundamentals  
-- Data Types & Variables  
-- Operators  
-- Conditional Statements (if-else, switch)  
-- Loops (for, while, do-while)  
-- Functions  
-- Arrays  
-- Strings  
-- Pointers (Basics)  
-- Structures  
-- File Handling  
-
----
-
-## 🧪 Practice Programs
-
-Each topic includes multiple practice programs designed to:
-- Strengthen conceptual understanding  
-- Improve coding efficiency  
-- Build logical problem-solving ability  
-
----
-
-## 🚀 Mini Projects
-
-To apply concepts in real scenarios, this repository includes small projects such as:
-
-- Simple Calculator  
-- Number System Converter  
-- Basic Menu-Driven Programs  
-
-These projects demonstrate practical use of C programming concepts.
 
 
