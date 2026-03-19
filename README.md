@@ -1,4 +1,4 @@
-# 💻 C Programming — Omsai Dasari
+# 💻 C Programming
 
 > A structured repository showcasing my journey of learning C programming, covering core concepts, problem-solving techniques, and practical implementations.
 
@@ -18,7 +18,11 @@ It includes well-organized programs, practice exercises, and concept-based imple
 - Memory Management (Basics)  
 - Structured Programming  
 - Input/Output Handling  
-- Debugging & Code Optimization  
+- Debugging & Code Optimization
+---
+## 👨‍💻 Author
+
+**Omsai Dasari**
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=11998e&height=80&section=footer&fontSize=16&fontColor=0f2027"/> </p>
 
